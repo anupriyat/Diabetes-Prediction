@@ -6,7 +6,6 @@ The goal of this project is to build a model that identifies patients that have 
 # Analysis:
 
 1. There were a total of 9,948 patients in the data. I used the first 6,600 patients for training set and the remaining for test set. 
-![Alt text](ETL.png?raw=true "ETL.png")
 
 2. The file training_SyncPatient.csv had an indicator column to show who has a diagnosis of Type 2 diabetes mellitus. 
 Used training data to do exploratory data analysis (distribution for diabetes based on male/female, smoking/non-smoking, age, and other data)
